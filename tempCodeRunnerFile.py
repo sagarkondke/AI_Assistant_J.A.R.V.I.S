@@ -1,0 +1,1 @@
+pip install pyobjc>=9.0.1
